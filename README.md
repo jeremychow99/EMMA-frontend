@@ -11,7 +11,6 @@ This is the front-end user interface for our IS213 Enterprise Solution Developme
 ## Starting the web application
 1. Install dependencies
 ```bash
-cd frontend
 npm install
 ```
 2. Launch application 
